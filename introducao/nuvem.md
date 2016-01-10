@@ -67,4 +67,11 @@ Originalmente o Paas foi concebido como uma solução para o desenvolvimento de 
 
 * **PaaS Público**: Derivado de SaaS, está situado entre o SaaS e a IaaS. Auxilia o cliente no gerenciamento do servidor e , de maneira geral, na interface entre o aplicativoe o servidor.
 
-* **PaaS Privado**:
+* **PaaS Privado**: Normalmente se encontra instalado em infraestrutura local ouem nuvens públicas. Ele organiza os componentes de aplicação e banco de dados em uma única plataforma de hospedagem.
+
+## SaaS - Software como Serviço
+---
+
+Se trata das aplicações oferecidas na camada final da rede, em contato com o usuário final. Em geral são as aplicações web, administradas por terceiros e acessadas diretamente pelo cliente da aplicação diretamente pelo browser deum dispositivo conectado à rede.
+
+Nesse modelo, todos, ou quase todos, os recursos acessados pelo usuário não estão sendo armazenados ou processados no terminal, e sim na nuvem. Essa metodologia facilita na manutenção, gerenciamento e suporte dos sistemas e aplicativos.
