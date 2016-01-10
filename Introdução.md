@@ -8,4 +8,4 @@ O OpenStack engloba um conjunto de softwares de código aberto que objetiva o ge
 
 Os diversos softwares que compõe o OpenStack se integram por meio de uma arquitetura modular de forma a permitir uma expansão horizontal da camada de infraestrutura na nuvem.
 
-Nesse trabalho veremos uma discussão mais detalhada a cerca da origem, do desenvolvimento e da arquitetura do OpenStack, assim como uma elabolaremos uma visão sobre cada um dos principais módulos que o compõe. Ademais, também abordaremos questões como segurança, concorrência e serviçoes em nuvem.
+Nesse trabalho veremos uma discussão mais detalhada a cerca da origem, do desenvolvimento e da arquitetura do OpenStack, assim como uma visão sobre cada um dos principais módulos que o compõe. Ademais, também abordaremos questões como segurança, concorrência e serviçoes em nuvem.
