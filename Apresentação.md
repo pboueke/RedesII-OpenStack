@@ -12,13 +12,13 @@
 
 ### Autores:
 
-|||
-|-------------: |:-------------|
-| Bernardo Amorim      |  b a m o r i m "at" p o l i . u f r j . b r |
-|Erik Fernandes Tronkos | { e r i k . t r o n k o s "at" p o l i . u f r j . b r }
-|Guilherme Thurler Borges | { g u i t h u r l e r "at" p o l i . u f r j . b r }
-|[Pedro Hollanda Boueke](http://pboueke.github.io/) | { p h b o u e k e "at" p o l i . u f r j . b r }
-|Pedro Volpi Nacif | { p e d r o v o l p i "at" p o l i . u f r j . b r }
+| Nome | @poli.ufrj.br|
+|:-------------|:-------------|
+|Bernardo Amorim |  bamorim |
+|Erik Fernandes Tronkos |  erik.tronkos  
+|Guilherme Thurler Borges |  guithurler  
+|[Pedro Hollanda Boueke](http://pboueke.github.io/) |  phboueke  
+|Pedro Volpi Nacif |  pedrovolpi
 
 ---
 
