@@ -1,1 +1,0 @@
-# Computação de Alto Desempenho

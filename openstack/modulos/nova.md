@@ -10,6 +10,5 @@ Os principais componentes do Nova são:
 * Auth Manager: componente responsável por usuários, projetos e papéis ("roles")
 * Objectstore: servidor http que replica a api s3 e permite o armazenamento e recuperação de imagens
 * Scheduler: decide qual host recebe cada VM
-* rede: gerencia IP Forwarding, pontes e vlans
+* Rede: gerencia IP Forwarding, pontes e vlans
 * Compute: gerencia a comunicação com máquinas virtuais e hypervisor
-
