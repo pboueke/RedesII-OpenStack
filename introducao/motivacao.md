@@ -10,4 +10,4 @@ Nesse sentido, tecnologias de gerenciamento de infraestrutura em nuvem se tornam
 
 Sendo uma das principais soluções de gerenciamento de infraestrutura em nuvem da atualidade e, mais ainda, sendo de código aberto, o OpenStack se torna uma ferramenta significativa que simboliza as transformações pelas quais a indústria e o meio acadêmico tem passado nos últimos anos, em especial no quesito de adoção da nuvem. Mais do que uma visão para soluções relacionadas a aplicações distribuídas, as tecnologias em nuvem se mostraram eficientes no tratamento de diversos tipos de problemas.
 
-Por esse motivo, o estudo detalhado de uma das principais tecnologias que se propõe a lidar com essaquestão é tão interessante e é o foco desse trabalho.
+Por esse motivo, o estudo detalhado de uma das principais tecnologias que se propõe a lidar com essa questão é tão interessante e é o foco desse trabalho.
