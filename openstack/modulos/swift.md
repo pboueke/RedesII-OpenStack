@@ -1,4 +1,5 @@
 # Object Storage (Swift)
+---
 
 Swift é um projeto de armazenamento distribuído de objetos em nuvem. com alta disponibilidade e armazenamento consistente de objetos. Foi feito para ser facilmente escalável e com alta disponibilidade, de forma que se consiga guardar e recuperar enormes quantidades de dados rapidamente e com uma *API* simples. É ideal para guardar dados desestruturados, podendo crescer vertiginosamente sem problemas.
 
@@ -9,7 +10,7 @@ O sistema de armazenamento organiza os dados em uma hierarquia:
 
 + Objeto: Armazena dados num geral, junto com seus metadados se necessário.
 
-![Arquitetura Swift](images/swift_01_arquitetura.jpg "Arquitetura Swift")
+![Arquitetura Swift](../../images/swift_01_arquitetura.jpg "Arquitetura Swift")
 
 ## Arquitetura Swift
 É composta primordialmente por um servidor proxy, um *ring*, servidores de objeto, servidores de contêiner, servidores de contas e um replicador.
@@ -31,4 +32,4 @@ O *ring* é um mapeamento entre o nome de entidades armazenadas em disco e sua l
 É responsável por listar os contêineres que pertencem a uma certa conta.
 
 #### Replicador
-O replicador é responsável por manter o sistema em um estado consistente em caso de um erro ou falha. O processo de replicação compara dados locais com suas cópias remotas para ter certeza que todas contém a última versão ou foram apagados corretamente. 
+O replicador é responsável por manter o sistema em um estado consistente em caso de um erro ou falha. O processo de replicação compara dados locais com suas cópias remotas para ter certeza que todas contém a última versão ou foram apagados corretamente.
