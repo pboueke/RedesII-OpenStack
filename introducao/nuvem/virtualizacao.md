@@ -7,7 +7,7 @@ O hardware virtualizado é gerenciado por um software ou firmware chamado de *hy
 
 * **Virtuzalização Completa**: simulação quase completa do hardware para permitir a execução de softwares não modificados.
 * **Virtualização Parcial**: nem todos os componentes são simulados,o que pode gerar complicações na execução de softwares não modificados.
-* **Paracirtualização**: softwares executados precisam estar adaptados especificamente a esse tipo de ambiente, no qual o hardware não está sendo simulado, mas cada máquina *guest* está segregada em um domínio próprio.
+* **Paravirtualização**: softwares executados precisam estar adaptados especificamente a esse tipo de ambiente, no qual o hardware não está sendo simulado, mas cada máquina *guest* está segregada em um domínio próprio.
 
 Os principais pontos nos quais a virtualização se destaca são:
 
