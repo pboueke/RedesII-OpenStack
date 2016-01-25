@@ -12,3 +12,11 @@ O serviço de Token valida e administra tokens utilizados para autenticar solici
 O serviço Catalog fornece um registro de terminal utilizado para a descoberta de endpoint;
 
 O serviço Policy fornece um mecanismo de autorização baseado em regras e a interface de gerenciamento das regras associadas;
+
+
+As instruções de instalação do código fonte evitam o uso de pacotes específicos de plataforma, em vez de usar o fonte para o código eo Python Package Index (PyPI).
+
+Espera-se que o seu sistema já tenha python, pip, e git disponíveis.
+
+Clonar o repositório Keystone:
+(...)
