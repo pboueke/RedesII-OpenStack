@@ -4,7 +4,7 @@ O OpenStack engloba um conjunto de softwares de código aberto que objetiva o ge
 
 ![O que é OpenStack?](images/Introducao_01_diagrama.png)
 
-*OpenStack, o Sistema Operaciona da Nuvem, [fonte](http://www.openstack.org/software/).*
+*OpenStack, o Sistema Operacional da Nuvem. [Fonte](http://www.openstack.org/software/).*
 
 Os diversos softwares que compõe o OpenStack se integram por meio de uma arquitetura modular de forma a permitir uma expansão horizontal da camada de infraestrutura na nuvem.
 
