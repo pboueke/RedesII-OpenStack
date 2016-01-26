@@ -17,4 +17,4 @@ Ao crescer a núvem, um dos primeiros passos é separar o *Neutron* em um nó de
 
 Um exemplo de implantaçao minimalista pode ser conferido na imagem abaixo:
 
-![Requisitos mínimos de Hardware. fonte: ](installguidearch-neutron-hw.png)
+![Requisitos mínimos de Hardware. fonte: Guia de Instalação do OpenStack](../images/installguidearch-neutron-hw.png)
