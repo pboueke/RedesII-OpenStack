@@ -1,0 +1,21 @@
+{
+  "plugins": [
+    "image-captions"
+  ],
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Figura: _CAPTION_"
+    }
+  },
+  "language": "pt-BR",
+  "gitbook": "2.0.1",
+  "links": {
+    "sharing": {
+      "all": false,
+      "google": false,
+      "facebook": false,
+      "twitter": false
+    },
+    "gitbook": false
+  }
+}
