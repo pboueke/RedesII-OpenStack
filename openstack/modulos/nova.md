@@ -3,6 +3,10 @@
 Nova é um projeto OpenStack projetado para fornecer recursos de computação massivamente escaláveis sob demanda.
 Ela foi construído sobre uma arquitetura nada compartilhada baseada em mensagens. Todos os principais componentes do Nova podem ser executados em vários servidores. Isto significa que a maior parte da comunicação componente a componente deve ser feita via fila de mensagens. A fim de evitar o bloqueio cada componente enquanto espera por uma resposta, usamos objetos diferidos, com um callback que é acionado quando for recebida uma resposta.
 
+
+## Arquitetura
+![Arquitetura Nova](http://c204396.r96.cf1.rackcdn.com/nova-cactus-logical.gif)
+
 Os principais componentes do Nova são:
 * BD (normalmente é uma instância compartilhada com outros componentes do OpenStack): banco de dados SQL para armazenamento de dados. Usado por todos os componentes
 * Painel Web: potencial componente externo que se comunica com a api
