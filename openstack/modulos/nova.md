@@ -12,3 +12,6 @@ Os principais componentes do Nova são:
 * Scheduler: decide qual host recebe cada VM
 * Rede: gerencia IP Forwarding, pontes e vlans
 * Compute: gerencia a comunicação com máquinas virtuais e hypervisor
+
+## Arquitetura
+![Arquitetura Nova](http://c204396.r96.cf1.rackcdn.com/nova-cactus-logical.gif)
