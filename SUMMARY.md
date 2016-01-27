@@ -26,6 +26,5 @@
   3. [Segurança](openstack/segurança.md)
   4. [Requisitos](openstack/requisitos.md)
 4. [Concorrência e Integração com outras Plataformas](plataformas.md)
-5. [Conclusão](conclusao.md)
 6. [Perguntas](perguntas.md)
 7. [Referências](referencias.md)
