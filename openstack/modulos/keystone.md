@@ -18,5 +18,4 @@ As instruções de instalação do código fonte evitam o uso de pacotes especí
 
 Espera-se que o seu sistema já tenha python, pip, e git disponíveis.
 
-Clonar o repositório Keystone:
-(...)
+
