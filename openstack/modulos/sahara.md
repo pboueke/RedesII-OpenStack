@@ -28,6 +28,4 @@ A arquitetura Sahara consiste em vários componentes:
 * EDP - Processamento de Dados Elastico (EDP), responsável pela programação e gerenciamento de tarefas de processamento de dados em clusters provisionados por sahara
 * API REST - expõe a funcionalidade sahara via interface REST HTTP
 * Python Sahara Client - como outros componentes OpenStack, sahara tem seu próprio cliente python
----
-
-...
+* Páginas Sahara - uma interface gráfica para o Sara está localizado no OpenStack Dashboard (horizon)
