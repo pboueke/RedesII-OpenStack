@@ -27,7 +27,7 @@ Os dados recebidos pelo agente de notificacao sao entao transformados de maneira
 
 Uma vez no coletor, a informacao e guardada em bancos de dados, para que possa ser consultada mais tarde pela API, de maneira que a informacao seja inteligivel pelo usuario final.
 
-![Coletor Telemetry](../../images/Ceilometer-Coletpr.png)
+![Coletor Telemetry](../../images/Ceilometer-Coletor.png)
 *Esquema de organizacao dos dados feita pelo coletor. [Fonte](http://docs.openstack.org/developer/ceilometer).*
 
 ![API Telemetry](../../images/Ceilometer-API.png)
