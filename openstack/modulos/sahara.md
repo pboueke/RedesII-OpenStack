@@ -20,6 +20,15 @@ O produto sahara se comunica com os seguintes serviços OpenStack:
 ...
 
 ### Arquitetura
+A arquitetura Sahara consiste em vários componentes:
+* Componente Auth - responsável pela autenticação e autorização do cliente, se comunica com o serviço OpenStack Identity (Keystone)
+* DAL - Data Access Layer persistir modelos internos no BD
+* Provisioning Engine - componente responsável pela comunicação com o OpenStack Compute (nova), Orchestration (heat), Block Storage (cinder) e serviços de imagem (glance)
+* Vendor Plugins - mecanismo responsável pela configuração e lançamento de estruturas de processamento de dados em VMs provisionados. Soluções de gerenciamento existentes, como o Apache Ambari e Console de Gerenciamento de Cloudera poderia ser utilizado para esse fim também
+* EDP - Processamento de Dados Elastico (EDP), responsável pela programação e gerenciamento de tarefas de processamento de dados em clusters provisionados por sahara
+* API REST - expõe a funcionalidade sahara via interface REST HTTP
+* Python Sahara Client - como outros componentes OpenStack, sahara tem seu próprio cliente python
+* Páginas Sahara - uma interface gráfica para o Sara está localizado no OpenStack Dashboard (horizon)
 ---
 
 ...
