@@ -14,7 +14,7 @@ O produto sahara se comunica com os seguintes serviços OpenStack:
 * Block Storage (cinder) - pode ser usado para armazenamento em bloco provisão para instâncias VM
 * Networking (neutron) - fornece serviços de rede para clusters de processamento de dados
 * Telemetria (ceilometer) - usado para coletar medidas de uso de cluster para fins de medição e monitoramento
-* Sistemas de arquivos compartilhados (Manila) - pode ser usado para o armazenamento dos binários de trabalho de enquadramento e dados que serão processadas ou criadas por jobs
+
 ---
 
 ...
