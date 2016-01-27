@@ -15,11 +15,9 @@ O produto sahara se comunica com os seguintes serviços OpenStack:
 * Networking (neutron) - fornece serviços de rede para clusters de processamento de dados
 * Telemetria (ceilometer) - usado para coletar medidas de uso de cluster para fins de medição e monitoramento
 
+### Arquitetura
 ---
 
-...
-
-### Arquitetura
 A arquitetura Sahara consiste em vários componentes:
 * Componente Auth - responsável pela autenticação e autorização do cliente, se comunica com o serviço OpenStack Identity (Keystone)
 * DAL - Data Access Layer persistir modelos internos no BD
