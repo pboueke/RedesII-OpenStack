@@ -1,7 +1,7 @@
 # Identity (keystone)
 O Keystone é um front-end HTTP para vários serviços. Como outras aplicações OpenStack, isso é feito usando interfaces python WSGI e os aplicativos são configurados em conjunto, utilizando o Paste. Pontos de extremidade HTTP do aplicativo são compostos de pipelines de WSGI middleware. Sua arquitetura divide funcionalidades em: Identity, Resource, Assignment Token, Catalog e Policy.
 
-[Foto Keystone _I_](http://docs.openstack.org/icehouse/install-guide/install/apt/content/figures/2/figures/SCH_5002_V00_NUAC-Keystone.png)
+![Foto Keystone _I_](http://docs.openstack.org/icehouse/install-guide/install/apt/content/figures/2/figures/SCH_5002_V00_NUAC-Keystone.png)
 ## Serviços
 ### Identity
 O serviço de Identity providencia validação de credenciais e informações para usuários e grupos;
