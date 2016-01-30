@@ -9,7 +9,7 @@ O serviço de Identity providencia validação de credenciais e informações pa
 ### Resource
 Ao passo que o Resource provê dados sobre Projetos e Domínios. Como o serviço de Identity, estes dados podem ser gerenciados diretamente pelo serviço ou serem puxados de outro serviço de backend, como o LDAP;
 
-### Assigntment
+### Assignment
 O serviço de Assignment fornece dados sobre Roles atribuições de Role às entidades geridas pelos serviços de Identity e de Resource. Novamente, como esses dois serviços, este dados podem ser gerenciadas diretamente pelo serviço de Assignment ou serem puxados de outro serviço de backend, como o LDAP;
 
 ### Token
