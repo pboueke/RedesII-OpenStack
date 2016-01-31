@@ -43,5 +43,3 @@ Os pilares do projeto são:
 * **Desenvolvimento de Módulos**: Além disso alguns módulos são desenvolvidos para auxiliar as tarefas:
 * * **Bandit**: Analisador de Árvore de Sintaxe Abstrata(AST) de programas python para buscar falhas de segurança.
 * * **Anchor**: Uma infraestrutura de Chaves Públicas para servir como centro de confiança entre os serviços do OpenStack.
-
-

@@ -5,11 +5,18 @@
 
 *A arquitetura modular permite a expansão horizontal da camada de infraestrutura em nuvem. Dessa forma o administrador e o implantador do sistema possem uma grande capacidade de adaptar a estrutura funcional de forma a maximizar a eficiência geral, pautados nas métricas que lhe sejam de maior importância.*
 
-**2**. VOLPI
+**2**. Cite uma das maiores preocupações com Clouds públicas?
 
-**3**. TK
+*Quando se trata de clouds públicas, as principais preocupações estão relacionadas com os dados, a garantia de privacidade deles e a persistência, visto que os dados vivem na infraestrutura de terceiros.*
 
-**4**. THURLER
+**3**. Qual a principal diferença entre o armazenamento Swift, o armazemanento Cinder e o armazenamento Glance?
+
+*O Swift armazena objetos, o Cinder blocos de dados e o Glance imagens de máquinas virtuais*
+
+**4**. Quais sao os cinco principais componentes do modulo Trove do OpenStack?
+
+*Servidor API, Barramento de mensagens, Gerenciador de Tarefas, Agente Visitante e
+Condutor*
 
 **5**. Qual a diferença entre um Hypervisor tipo 1 e tipo 2 e o que isso influencia nos *Nós de Computação*?
 

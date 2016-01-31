@@ -5,7 +5,7 @@ Ela foi construído sobre uma arquitetura nada compartilhada baseada em mensagen
 
 
 ## Arquitetura
-![Arquitetura Nova](http://c204396.r96.cf1.rackcdn.com/nova-cactus-logical.gif)
+![Arquitetura Nova. Fonte: http://ken.pepple.info/](../../images/nova-cactus-logical.gif)
 
 Os principais componentes do Nova são:
 * BD (normalmente é uma instância compartilhada com outros componentes do OpenStack): banco de dados SQL para armazenamento de dados. Usado por todos os componentes
